@@ -5,6 +5,8 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning, AI, and F
 🌱 Exploring the world of AI/ML and Quantum Computing
 
 📫 Connect with me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sshreya22)  
+<a href="https://www.linkedin.com/in/sshreya22" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
 🚀 Always learning, always building.
