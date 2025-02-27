@@ -5,6 +5,6 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning, AI, and F
 🌱 Exploring the world of AI/ML and Quantum Computing
 
 📫 Connect with me:  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/sshreya22)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sshreya22)  
 
 🚀 Always learning, always building.
