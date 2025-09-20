@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about **Machine Learning, AI, and Full-Stack Development** 🚀\
 💻 Computer Science student at SRMIST\
-🌱 Exploring the world of AI/ML and Quantum Computing
+🌱 Exploring the world of AI/ML, Cybersecurity and Quantum Computing
 
 
 
